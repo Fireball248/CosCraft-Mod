@@ -1,0 +1,15 @@
+{
+  "result": {
+    "item": "allomancy:flake_brass",
+    "count": 2
+  },
+  "ingredients": [
+    {
+      "item": "allomancy:flake_zinc"
+    },
+    {
+      "item": "allomancy:flake_copper"
+    }
+  ],
+  "type": "minecraft:crafting_shapeless"
+}

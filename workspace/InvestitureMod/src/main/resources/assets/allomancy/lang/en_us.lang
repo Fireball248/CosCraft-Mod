@@ -1,0 +1,30 @@
+itemGroup.Allomancy=Allomancy
+
+tile.allomancy.iron_lever.name=Iron Lever
+tile.allomancy.iron_lever.lore=This lever seems to heavy to move by ordinary means
+
+item.allomancy.grinder.name=Hand Grinder
+item.allomancy.mistcloak.name=Mistcloak
+item.allomancy.coin_bag.name=Coin Bag
+
+key.categories.allomancy=Allomancy
+key.burn=Burn Metals
+
+commands.allomancy.usage=/allomancy <power level> [player]
+commands.allomancy.success=Setting %s to %s
+
+item.allomancy.vial.name=Allomantic Vial
+
+
+item.allomancy.flake_brass.name=Brass Flakes
+item.allomancy.flake_bronze.name=Bronze Flakes
+item.allomancy.flake_iron.name=Iron Flakes
+item.allomancy.flake_steel.name=Steel Flakes
+item.allomancy.flake_pewter.name=Pewter Flakes
+item.allomancy.flake_copper.name=Copper Flakes
+item.allomancy.flake_tin.name=Tin Flakes
+item.allomancy.flake_zinc.name=Zinc Flakes
+item.allomancy.flake_lead.name=Lead Flakes
+
+advancements.becomeMistborn.title=Become Mistborn!
+advancements.becomeMistborn.desc=You have a power most people envy...

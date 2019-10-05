@@ -78,7 +78,7 @@ public final class EventSubscriber {
 				new PewterIngot("pewter_ingot", "pewter_ingot"),
 				new SteelIngot("steel_ingot", "steel_ingot"),
 				new TinIngot("tin_ingot", "tin_ingot"),
-				new ZincIngot("zinc_ingot", "zinc_ingot"),
+				new ZincIngot("zinc_ingot", "zinc_ingot")
 		};
 
 		final Item[] itemBlocks = {
